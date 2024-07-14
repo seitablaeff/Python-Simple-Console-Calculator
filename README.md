@@ -20,6 +20,6 @@
    git clone https://github.com/seitablaeff/Python-Simple-Console-Calculator.git
 
 ## Скриншоты приложения
-<img src="images_on_github/Calculator-1.png" width="400">
-<img src="images_on_github/Calculator-2.png" width="400">
-<img src="images_on_github/Calculator-3.png" width="400">
+<img src="images_on_github/Calculator-1.png" width="550">
+<img src="images_on_github/Calculator-2.png" width="550">
+<img src="images_on_github/Calculator-3.png" width="550">
