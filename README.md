@@ -17,15 +17,15 @@
   1. Необходимо клонировать репозиторий:
    ```bash
    git clone https://github.com/seitablaeff/Python-Simple-Console-Calculator.git
-  
+  ```
   2. Перейти в директорию проекта:
    ```bash
    cd Python-Simple-Console-Calculator
-  
+   ```
   3. Запустить скрипт calc.py:
    ```bash
    python calc.py
-
+   ```
 ## Скриншоты приложения
 <img src="images_on_github/Calculator-1.png" width="550">
 <img src="images_on_github/Calculator-2.png" width="550">
